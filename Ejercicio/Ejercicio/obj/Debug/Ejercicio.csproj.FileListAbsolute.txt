@@ -1,0 +1,170 @@
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Ejercicio.dll.config
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Ejercicio.dll
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Ejercicio.pdb
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Antlr3.Runtime.dll
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Microsoft.Web.Infrastructure.dll
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Newtonsoft.Json.dll
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Net.Http.Formatting.dll
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Helpers.dll
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Http.dll
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Http.WebHost.dll
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Mvc.dll
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Optimization.dll
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Razor.dll
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.Deployment.dll
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.dll
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.Razor.dll
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\WebGrease.dll
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Helpers.xml
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Mvc.xml
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Optimization.xml
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Razor.xml
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.xml
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.Deployment.xml
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.Razor.xml
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Newtonsoft.Json.xml
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Antlr3.Runtime.pdb
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Net.Http.Formatting.xml
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Http.xml
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Http.WebHost.xml
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csprojAssemblyReference.cache
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CopyComplete
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\obj\Debug\Ejercicio.dll
+W:\Documentacion\Technical Leaders\Pruebas de acceso técnicas\2019\desarrollador_senior_mvc\PRUEBA_NIVEL\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Ejercicio.dll.config
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Ejercicio.dll
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Ejercicio.pdb
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Antlr3.Runtime.dll
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Newtonsoft.Json.dll
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Net.Http.Formatting.dll
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Helpers.dll
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Http.dll
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Http.WebHost.dll
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Mvc.dll
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Optimization.dll
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Razor.dll
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.dll
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.Razor.dll
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\WebGrease.dll
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Helpers.xml
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Mvc.xml
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Optimization.xml
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Razor.xml
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.xml
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.Razor.xml
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Newtonsoft.Json.xml
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Antlr3.Runtime.pdb
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Net.Http.Formatting.xml
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Http.xml
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Http.WebHost.xml
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csprojAssemblyReference.cache
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CopyComplete
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\obj\Debug\Ejercicio.dll
+C:\Users\jihernandez\Documents\Escritorio\PRUEBA_NIVEL\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Ejercicio.dll.config
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Ejercicio.dll
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Ejercicio.pdb
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Antlr3.Runtime.dll
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Microsoft.Web.Infrastructure.dll
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Newtonsoft.Json.dll
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Net.Http.Formatting.dll
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Helpers.dll
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Http.dll
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Http.WebHost.dll
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Mvc.dll
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Optimization.dll
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Razor.dll
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.Deployment.dll
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.dll
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.Razor.dll
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\WebGrease.dll
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Helpers.xml
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Mvc.xml
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Optimization.xml
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Razor.xml
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.xml
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.Deployment.xml
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.WebPages.Razor.xml
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Newtonsoft.Json.xml
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\Antlr3.Runtime.pdb
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Net.Http.Formatting.xml
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Http.xml
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\bin\System.Web.Http.WebHost.xml
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csprojAssemblyReference.cache
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CopyComplete
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\obj\Debug\Ejercicio.dll
+X:\_TEMP PARA TRASPASO DE FICHEROS (Se borra todos los viernes)\Prueba Nivel Desarrollo\PRUEBA_NIVEL\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\Ejercicio.dll.config
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\Ejercicio.dll
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\Ejercicio.pdb
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\Antlr3.Runtime.dll
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\Newtonsoft.Json.dll
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Net.Http.Formatting.dll
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.Helpers.dll
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.Http.dll
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.Http.WebHost.dll
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.Mvc.dll
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.Optimization.dll
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.Razor.dll
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.WebPages.dll
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.WebPages.Razor.dll
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\WebGrease.dll
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.Helpers.xml
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.Mvc.xml
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.Optimization.xml
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.Razor.xml
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.WebPages.xml
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.WebPages.Razor.xml
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\Newtonsoft.Json.xml
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\Antlr3.Runtime.pdb
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Net.Http.Formatting.xml
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.Http.xml
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\bin\System.Web.Http.WebHost.xml
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csprojAssemblyReference.cache
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CopyComplete
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\obj\Debug\Ejercicio.dll
+C:\Users\avalo\Downloads\wetransfer-f3ef3e\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\Ejercicio.dll.config
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\Ejercicio.dll
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\Ejercicio.pdb
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\Antlr3.Runtime.dll
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\Newtonsoft.Json.dll
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Net.Http.Formatting.dll
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.Helpers.dll
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.Http.dll
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.Http.WebHost.dll
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.Mvc.dll
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.Optimization.dll
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.Razor.dll
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.WebPages.dll
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.WebPages.Razor.dll
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\WebGrease.dll
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.Helpers.xml
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.Mvc.xml
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.Optimization.xml
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.Razor.xml
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.WebPages.xml
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.WebPages.Razor.xml
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\Newtonsoft.Json.xml
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\Antlr3.Runtime.pdb
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Net.Http.Formatting.xml
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.Http.xml
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\bin\System.Web.Http.WebHost.xml
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csprojAssemblyReference.cache
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CopyComplete
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\obj\Debug\Ejercicio.dll
+C:\Users\avalo\Downloads\Anthony Avalos - ProyStarWar\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb
